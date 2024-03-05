@@ -1,10 +1,11 @@
 [
   {
-    "AppName" : "CRM",
-    "AppID" : "d6639bb4-66f0-4bd0-abb4-34c03746b478"
-  },
-  {
     "AppName" : "Extract Data Model Tables",
-    "AppID" : "b1fbf41d-e3a8-4f2e-ac67-e34b6e843cd7"
+    "AppID" : "b1fbf41d-e3a8-4f2e-ac67-e34b6e843cd7",
+    "NextApp" : {
+                 "AppName" : "CRM",
+                 "AppID" : "d6639bb4-66f0-4bd0-abb4-34c03746b478",
+                 "NextApp" : {}
+               }
   }
 ]
