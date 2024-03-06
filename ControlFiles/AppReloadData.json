@@ -3,10 +3,6 @@
       "GroupNumber" : 1,
       "Group Desc"  : "Extract Raw Tables",
       "Apps" : [
-                {
-                  "AppName" : "Extract Data Model Tables",
-                  "AppID" : "b1fbf41d-e3a8-4f2e-ac67-e34b6e843cd7"
-               },
                {
                  "AppName" : "CRM",
                  "AppID" : "d6639bb4-66f0-4bd0-abb4-34c03746b478"
@@ -17,13 +13,9 @@
      "GroupNumber" : 2,
      "Group Desc"  : "Extract Raw Tables",
      "Apps" : [
-              {
-                 "AppName" : "Extract Data Model Tables",
-                 "AppID" : "b1fbf41d-e3a8-4f2e-ac67-e34b6e843cd7"
-             },
              {
-                "AppName" : "CRM",
-                "AppID" : "d6639bb4-66f0-4bd0-abb4-34c03746b478"
+                "AppName" : "Physician Financial KPIs",
+                "AppID" : "e3fcd86e-f9c2-4642-ad28-70a988c5ffb7"
              }
     ]
   }
