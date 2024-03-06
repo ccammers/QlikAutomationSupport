@@ -1,7 +1,7 @@
 [
   {
       "GroupNumber" : 1,
-      "Group Desc"  : "Extract Raw Tables"
+      "Group Desc"  : "Extract Raw Tables",
       "Apps" : [
                 {
                   "AppName" : "Extract Data Model Tables",
@@ -15,7 +15,7 @@
   },
   {
      "GroupNumber" : 2,
-     "Group Desc"  : "Extract Raw Tables"
+     "Group Desc"  : "Extract Raw Tables",
      "Apps" : [
               {
                  "AppName" : "Extract Data Model Tables",
